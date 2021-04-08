@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDBoW3.a  CMakeFiles/DBoW3.dir/BowVector.cpp.o CMakeFiles/DBoW3.dir/Database.cpp.o CMakeFiles/DBoW3.dir/DescManip.cpp.o CMakeFiles/DBoW3.dir/FeatureVector.cpp.o CMakeFiles/DBoW3.dir/QueryResults.cpp.o CMakeFiles/DBoW3.dir/ScoringObject.cpp.o CMakeFiles/DBoW3.dir/Vocabulary.cpp.o
+/usr/bin/ranlib libDBoW3.a
