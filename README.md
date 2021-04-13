@@ -10,7 +10,7 @@ To run this program, please follow the steps below (in Linux system):<br>
 
 1. Make sure you have installed all related libraries and dependencies<br>
 OpenCV: https://opencv.org/releases/<br>
-PCL: http://www.pointclouds.org/downloads/windows.html or git clone https://github.com/PointCloudLibrary/pcl/releases<br>
+PCL: https://pointclouds.org/downloads/ or git clone https://github.com/PointCloudLibrary/pcl/releases<br>
 G2O: git clone https://github.com/RainerKuemmerle/g2o.git<br>
 DBoW3: This is already contained in the project, to install it again , git clone https://github.com/rmsalinas/DBow3.git<br>
 
